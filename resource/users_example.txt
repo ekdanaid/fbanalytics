@@ -1,0 +1,10 @@
+U001,Ploy,female,20
+U002,May,female,27
+U003,Nan,female,19
+U004,Fern,female,24
+U005,Mild,female,35
+U006,Aom,female,24
+U007,Milk,female,43
+U008,Jane,female,32
+U009,Beam,female,48
+U010,Fang,female,47
